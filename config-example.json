@@ -1,0 +1,5 @@
+{
+    "model_keyword_path": "../stable-diffusion-webui/extensions/model-keyword",
+    "lora_path": "../stable-diffusion-webui/models/Lora",
+    "sd_model_path": "../stable-diffusion-webui/models/Stable-diffusion"
+}
